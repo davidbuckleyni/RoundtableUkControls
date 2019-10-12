@@ -15,20 +15,20 @@ Setup Andriod
 Control has a in built class which comprises of the following markup. This will allow us to send back to the object
 what item is selected you will get back the value for example below you see 0001 that is what would be returned.
 
-      public class PickerModel
-      {
-         public long Value { get; set; }
+       public class PickerModel
+       {
+          public long Value { get; set; }
           public string Description { get; set; }
-       }
+        }
  
 
-            List<PickerModel> demoList= new List<PickerModel>();
-            PickerModel item = new PickerModel();
-            item.Description = "Test1";
-            item.Value = 0001;
-            demoList.Add(item);
+         List<PickerModel> demoList= new List<PickerModel>();
+         PickerModel item = new PickerModel();
+         item.Description = "Test1";
+         item.Value = 0001;
+         demoList.Add(item);
 
-            var selectionTest = Plugin.DialogKit.RoundTableDialogKit.Current.GetPickerChoice("RoundTable", "Please select an item ", demoList, null, Keyboard.Numeric);
-            await DisplayAlert("RoundTable", $"This is what was selected {selectionTest.ToString()}","OK");
+         var selectionTest = Plugin.DialogKit.RoundTableDialogKit.Current.GetPickerChoice("RoundTable", "Please select an item ", demoList, null, Keyboard.Numeric);
+         await DisplayAlert("RoundTable", $"This is what was selected {selectionTest.ToString()}","OK");
 
 Please let me no what you think and send me an email at davidbuckleyweb@gmail.com. Raise any issues on Github first please.
