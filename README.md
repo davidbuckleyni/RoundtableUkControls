@@ -1,3 +1,5 @@
+
+
 The following is a control to over come a problem I was having. While we have the excellent RG popups their 
 was no example of using a drop down with the control. I had look at input kit and others but I just wanted
 something small that I could drop in when I need a popup with the dropdown within it its very easy to setup 
@@ -7,7 +9,7 @@ and will save you loads of time.
 Setup Andriod
 1. As we are using RG popups for the program you will need to add it to your MainActivity.cs
 
-      Rg.Plugins.Popup.Popup.Init(this, savedInstanceState);
+       Rg.Plugins.Popup.Popup.Init(this, savedInstanceState);
 
 
 
@@ -32,3 +34,7 @@ what item is selected you will get back the value for example below you see 0001
          await DisplayAlert("RoundTable", $"This is what was selected {selectionTest.ToString()}","OK");
 
 Please let me no what you think and send me an email at davidbuckleyweb@gmail.com. Raise any issues on Github first please.
+
+Demo 
+
+ ![Demo](https://i.imgur.com/f4DQdz8.gif)`enter code here`
