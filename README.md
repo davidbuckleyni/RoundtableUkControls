@@ -15,12 +15,11 @@ Setup Andriod
 Control has a in built class which comprises of the following markup. This will allow us to send back to the object
 what item is selected you will get back the value for example below you see 0001 that is what would be returned.
 
-    public class PickerModel
-    {
-        public long Value { get; set; }
-
-        public string Description { get; set; }
-    }
+      public class PickerModel
+      {
+         public long Value { get; set; }
+          public string Description { get; set; }
+       }
  
 
             List<PickerModel> demoList= new List<PickerModel>();
