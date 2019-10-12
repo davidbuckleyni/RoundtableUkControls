@@ -8,7 +8,7 @@ and will save you loads of time.
 
 Setup Andriod
 
-* Available on NuGet: https://www.nuget.org/packages/RoundTable.Controls.PickerPopupView/ [![NuGet] 
+* Available on NuGet: https://www.nuget.org/packages/RoundTable.Controls.PickerPopupView/ ![Nuget](https://img.shields.io/nuget/v/RoundTable.Controls.PickerPopupView)
 
 1. As we are using RG popups for the program you will need to add it to your MainActivity.cs
 
