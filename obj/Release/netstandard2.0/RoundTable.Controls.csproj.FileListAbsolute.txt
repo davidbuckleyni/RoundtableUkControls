@@ -1,0 +1,9 @@
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\Views\PickerPopupView.xaml.g.cs
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\RoundTable.Controls.AssemblyInfoInputs.cache
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\RoundTable.Controls.AssemblyInfo.cs
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\bin\Release\netstandard2.0\RoundTable.Controls.deps.json
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\bin\Release\netstandard2.0\RoundTable.Controls.dll
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\bin\Release\netstandard2.0\RoundTable.Controls.pdb
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\XamlC.stamp
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\RoundTable.Controls.dll
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Release\netstandard2.0\RoundTable.Controls.pdb

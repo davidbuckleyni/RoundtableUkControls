@@ -1,0 +1,5 @@
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\bin\Debug\netstandard2.0\RoundTable.Controls.deps.json
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\bin\Debug\netstandard2.0\RoundTable.Controls.dll
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Debug\netstandard2.0\RoundTable.Controls.AssemblyInfoInputs.cache
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Debug\netstandard2.0\RoundTable.Controls.AssemblyInfo.cs
+D:\GitMasterHome\PopupPickerNuget\RoundTable.Dialog.PopupPicker\obj\Debug\netstandard2.0\RoundTable.Controls.csprojAssemblyReference.cache
