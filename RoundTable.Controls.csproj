@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>David Buckley</Authors>
+    <Description>This controls contains a nice popup control using Rg Popups that houses a xamrain picker control.</Description>
+    <PackageProjectUrl>https://github.com/davidbuckleyni/RoundtableUkControls</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/davidbuckleyni/RoundtableUkControls</RepositoryUrl>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Rg.Plugins.Popup" Version="1.2.0.223" />
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.848062" />
+    <PackageReference Include="Xamarin.Forms.InputKit" Version="3.0.13" />
+  </ItemGroup>
+
+</Project>

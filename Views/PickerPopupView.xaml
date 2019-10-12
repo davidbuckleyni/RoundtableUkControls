@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentView  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:Plugin.DialogKit"
+             mc:Ignorable="d"
+             x:Class="RoundTable.Controls.Views.PickerPopupView">
+    <ContentView.Content>
+        <StackLayout Padding="10" BackgroundColor="White" VerticalOptions="CenterAndExpand" Margin="25">
+            <Label FontAttributes="Bold" FontSize="Large" Text="{Binding Title}"/>
+            <Label FontSize="Large" Text="{Binding Message}"/>         
+            <Picker x:Name="pickItems" ItemDisplayBinding="{Binding Description}">
+            </Picker>
+            <StackLayout Margin="10" Orientation="Horizontal">
+                <Button Text="{Binding OK}" Clicked="Confirm_Clicked"  HorizontalOptions="FillAndExpand"/>
+                <Button Text="{Binding Cancel}" Clicked="Confirm_Clicked"  HorizontalOptions="FillAndExpand"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

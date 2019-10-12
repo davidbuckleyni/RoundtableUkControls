@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>RoundTable.Controls.PickerPopupView</id>
+    <version>1.0.1</version>
+    <title>Xamarin.Forms.RoundTablePicker.Popup</title>
+    <authors>David Buckley</authors>
+    <owners>David Buckley</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/davidbuckleyni/RoundtableUkControls</projectUrl>
+    <description>This plugin allows for a popup to contain a Xamarin.Forms Picker Control. It will take a model of value and description and be able to return the item picked as object.</description>
+    <summary>This plugin allows for a popup to contain a Xamarin.Forms Picker Control. It will take a model of value and description and be able to return the item picked as object.</summary>
+    <dependencies>
+      <dependency id="Xamarin.Forms" version="4.2.0.848062" />
+      <dependency id="Rg.Plugins.Popup" version="1.2.0.223" />
+      <dependency id="Xamarin.Forms.InputKit" version="3.0.13" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lib\RoundTable.Controls.dll" target="lib\RoundTable.Controls.dll" />
+  </files>
+</package>
