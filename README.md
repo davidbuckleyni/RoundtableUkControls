@@ -10,7 +10,7 @@ Setup Andriod
 
 * Available on NuGet: https://www.nuget.org/packages/RoundTable.Controls.PickerPopupView/ ![Nuget](https://img.shields.io/nuget/v/RoundTable.Controls.PickerPopupView)
 
-1. As we are using RG popups for the program you will need to add it to your MainActivity.cs
+1. As we are using RG popups for the program you will need to add it to your MainActivity.cs also install it using the nuget package manager as well as xamrain forms input kit
 
        Rg.Plugins.Popup.Popup.Init(this, savedInstanceState);
 
